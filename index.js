@@ -8,10 +8,6 @@ const token = 'NzEwMjE3NDE4MTY0OTI4NjIz.XrxUIQ.5EM_NFWaMh9oTlC0CsFkjq_U5nk';
 
 //const google = require('googleapis');
 
-//const apiKey = 'AIzaSyB-RYS_VS11wifocrUM7Sv73ClLqJuhQ6c';
-
-const apiKey = 'AIzaSyD4lJSNHGkRY5XimXJjptGrYMOIH9vr5bQ';
-
 //const {google} = require('googleapis');
 
 
